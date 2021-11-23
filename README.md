@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me szilveszter.dezsi@prevas.se
+- 📫 How to reach me szilveszter@dezsi.se
 
 <!---
 szilveszterdezsi/szilveszterdezsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
