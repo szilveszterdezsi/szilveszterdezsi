@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @szilveszterdezsi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning about 2d animation
+- 🌱 I’m currently learning about 2D animation
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me szilveszter@dezsi.se
